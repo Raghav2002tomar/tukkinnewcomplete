@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "imageName": "consai.jpg",
+        "name":" Consai"
+    },
+    {
+        "id": 2,
+        "imageName": "rasanrj.jpg",
+        "name": "Rasanrj"
+    },
+    {
+        "id": 3,
+        "imageName": "conantl.jpg",
+        "name": "Contantl"
+    },
+    {
+        "id": 4,
+        "imageName": "marust.jpg",
+        "name": "Marust"
+        
+    },
+    {
+        "id": 5,
+        "imageName": "saione.jpg",
+        "name": "Saione lia"
+    },
+    {
+        "id": 6,
+        "imageName": "garnet.jpg",
+        "name": "Garnet place"
+    },
+    {
+        "id": 7,
+        "imageName": "nairps.jpg",
+        "name": "Nairap"
+    },
+    {
+        "id": 8,
+        "imageName": "southern.jpg",
+        "name": "Southern"
+    },
+    {
+        "id": 9,
+        "imageName": "dook.jpg",
+        "name": "Dook"
+    }
+    
+    
+]

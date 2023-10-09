@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>887998854075-b2pfjhq91omuoe7kanaoc8fjmst5bvop.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.887998854075-b2pfjhq91omuoe7kanaoc8fjmst5bvop</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoZT-Ftuj-_aBaFwT3Zub_zGc-fC9ZKO4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887998854075</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tukki.mobapp</string>
+	<key>PROJECT_ID</key>
+	<string>tukki-6eb12</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tukki-6eb12.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887998854075:ios:192cc544c6cc88f934ca9e</string>
+</dict>
+</plist>

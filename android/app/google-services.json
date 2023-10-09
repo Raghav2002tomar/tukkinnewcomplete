@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "887998854075",
+    "project_id": "tukki-6eb12",
+    "storage_bucket": "tukki-6eb12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887998854075:android:2dc0f7a80cab78d834ca9e",
+        "android_client_info": {
+          "package_name": "com.tukki.mobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887998854075-clatrt5cff7ike8t435h5qfsngtsloll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANeia1a209330ZcNu44XlJb-0YW-Y7QYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887998854075-2q0igcqg83d5panvdeqqijv17no4dq7e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "887998854075-b2pfjhq91omuoe7kanaoc8fjmst5bvop.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tukki.mobapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
